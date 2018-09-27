@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile
+  - Wolf
+  - Sheep
+  - Bark
+  - Pellet
+  - FearBar
+  - FearBarBackground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Sheep
+  - Wolf
+  - Pellet
+  - Bark
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bark
+    uniqueID: 2234703085
+    locked: 0
+  - name: Pellet
+    uniqueID: 2347806975
+    locked: 0
+  - name: Wolf
+    uniqueID: 1915925951
+    locked: 0
+  - name: Sheep
+    uniqueID: 2276448947
+    locked: 0
